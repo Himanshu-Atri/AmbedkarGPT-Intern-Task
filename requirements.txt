@@ -1,0 +1,14 @@
+langchain==0.3.27
+langchain-core
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+huggingface-hub
+llama-cpp-python
+rouge-score
+evaluate
+nltk
+scikit-learn
+tqdm
+numpy
